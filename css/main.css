@@ -1,0 +1,57 @@
+* {
+  margin:0;
+  padding:0;
+
+}
+
+body {
+  background-color: #FFF;
+  font: 14px Arial, sans-serif;
+}
+
+h1 {font-size:32px;font-family: 'Ropa Sans', sans-serif; font-weight:400;}
+h2 {font-size:32px;font-family: 'Ropa Sans', sans-serif; font-weight:400;  margin-bottom:1em;}
+
+a {color: #00a;}
+a:hover {color: #000;}
+
+p {margin-bottom:1em;}
+
+.header { 
+  color: #eee;
+  background-color: #454545;
+  border-bottom: 3px solid #222;
+  padding: 5px;
+}
+
+.container {
+  padding:30px;
+}
+
+.main {
+  padding:100px 0 0 550px;
+  text-align:right;
+}
+
+.container .inner{
+  background-image:url('../assets/serval.png');
+  background-repeat: no-repeat;
+  min-height: 600px;
+}
+
+.footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  color: #aaa;
+  background-color: #454545;
+  border-top: 3px solid #222;
+  padding: 20px;
+  text-align: center;
+  font-size:12px;
+}
+
+.inner {
+  width: 960px;
+  margin: 0 auto;
+}

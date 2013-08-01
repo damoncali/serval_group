@@ -1,4 +1,1 @@
-serval_group
-============
-
-Serval Group Website
+Serval Group
